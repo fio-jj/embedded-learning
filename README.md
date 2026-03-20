@@ -16,10 +16,3 @@ PSoC 4100S baremetal project: Smart Temperature Alert System
 
 ## Phase 3 — Coming May 2026
 PSoC 6 FreeRTOS project: IoT Temperature Monitor with WiFi
-```
-
-Save it, then push:
-```
-git add .
-git commit -m "Update README with roadmap"
-git push
